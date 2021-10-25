@@ -42,5 +42,4 @@ You can register a new account or login with an existing one.
 ## Team
 Agash Chandar R
 
-MIT © [Agash Chandar R](https://github.com/agashchandar)
 
